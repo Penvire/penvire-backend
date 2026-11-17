@@ -31,6 +31,7 @@ There is no Gradle build yet. Once the wrapper exists, use `./gradlew build` and
 - Commits are GPG-signed; `main` rejects unsigned commits.
 - PR body: a one-paragraph summary, then a `## Test plan` section.
 - Releases are managed by release-please. Do not bump versions or edit `CHANGELOG.md` by hand.
+- The PR title becomes the changelog entry. Keep one user-facing change per PR. If a PR contains several, list every `feat` and `fix` on its own line in the PR description, between `BEGIN_COMMIT_OVERRIDE` and `END_COMMIT_OVERRIDE`; release-please uses that block instead of the title.
 - Penvire never ships hand-written authentication.
 
 ## Agent docs
