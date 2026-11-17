@@ -11,7 +11,7 @@ The product services, from tenants and engagements to evidence, findings and rep
 ## Related
 
 - [penvire-contracts](https://github.com/Penvire/penvire-contracts): API and event contracts
-- [penvire-client](https://github.com/Penvire/penvire-client): web UI
+- [penvire-clients](https://github.com/Penvire/penvire-clients): web, desktop and mobile apps
 - [penvire-docs](https://github.com/Penvire/penvire-docs): architecture and decisions
 
 ## License
