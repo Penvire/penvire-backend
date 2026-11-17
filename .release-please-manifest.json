@@ -1,3 +1,10 @@
 {
-  ".": "0.0.0"
+  "services/bff": "0.0.0",
+  "services/tenant": "0.0.0",
+  "services/engagement": "0.0.0",
+  "services/evidence": "0.0.0",
+  "services/audit": "0.0.0",
+  "services/finding": "0.0.0",
+  "services/reporting": "0.0.0",
+  "services/notification": "0.0.0"
 }
